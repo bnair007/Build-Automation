@@ -1,1 +1,1 @@
-sh /root/build.sh qwertyu67
+sh /root/build.sh myprodvm01
