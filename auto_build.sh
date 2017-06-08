@@ -1,1 +1,1 @@
-sh /root/build.sh myprodvm01
+sh /root/build.sh test007
