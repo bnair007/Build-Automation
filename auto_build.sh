@@ -1,1 +1,1 @@
-sh /root/build.sh test007
+sh /root/build.sh mydevvm
