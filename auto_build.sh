@@ -1,1 +1,1 @@
-sh /root/build.sh mydevvm
+sh /root/build.sh myoracletest
