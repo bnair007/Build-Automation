@@ -1,1 +1,1 @@
-sh /root/build.sh myoracletest
+sh /root/build.sh mydevtest
