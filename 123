@@ -1,7 +1,24 @@
-a
-b
-c
-a
-d
-e
-d
+curl -X POST /api/hosts
+{
+  "host": {
+    "name": "testhost11",
+    "environment_id": "334344675",
+    "domain_id": "22495316",
+    "ptable_id": "1007981702",
+    "medium_id": "980190962",
+    "architecture_id": "501905019",
+    "operatingsystem_id": "1073012828",
+    "puppet_proxy_id": "182953976",
+    "compute_resource_id": "980190962",
+    "root_pass": "xybxa6JUkz63w",
+    "location_id": "255093256",
+    "organization_id": "447626438",
+ }
+}
+422
+{
+  "error": {
+    "message": "ERF13-6594 [InterfaceTypeMapper::UnknownTypeExeption]: Unknown interface type, must be one of [interface, bmc, bond, bridge]"
+  }
+}
+https://192.168.133.210/api/v2/hosts/ | python -mjson.tool
