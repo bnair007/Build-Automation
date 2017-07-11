@@ -1,1 +1,1 @@
-sh /root/build.sh myproddev001
+sh /root/build.sh webprod
