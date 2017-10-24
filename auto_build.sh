@@ -1,1 +1,1 @@
-sh /root/build.sh bijith5678
+sh /root/build.sh mytest008
