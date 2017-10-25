@@ -1,1 +1,1 @@
-sh /root/build.sh mytest008
+sh /root/build.sh testbuild001
