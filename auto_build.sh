@@ -1,1 +1,1 @@
-sh /root/build.sh mytestvm789
+sh /root/build.sh helloworld001
