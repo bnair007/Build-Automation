@@ -1,1 +1,1 @@
-sh /root/build.sh helloworld001
+sh /root/build.sh bijithtest001
